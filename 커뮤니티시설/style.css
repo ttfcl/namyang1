@@ -16,7 +16,7 @@ body {
     padding: 0px;
     margin: 0px;
     word-break: keep-all;
-    
+    height: 2000px;
 }
 .col-12 {
     padding: 0px;
@@ -66,6 +66,7 @@ nav {
     width: 100%;
     background-color: #423e42;
 }
+
 .navbar > a {
     font-size: 18px;
     width: fit-content;
