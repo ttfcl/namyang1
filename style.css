@@ -159,13 +159,33 @@ nav {
     color: white;
 }
 
+body > h1 {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
 footer {
     margin-top: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
 }
-
+footer > div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+footer > div > a {
+    color: black;
+}
 
 .section3RightBox {
     width: 100%;

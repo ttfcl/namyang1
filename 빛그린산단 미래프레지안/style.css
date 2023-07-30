@@ -166,6 +166,19 @@ footer {
     padding-bottom: 20px;
     text-align: center;
 }
+footer > div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+footer > div > a {
+    color: black;
+}
 
 
 .section3RightBox {
