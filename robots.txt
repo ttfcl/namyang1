@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://emodelhouse.kro.kr/sitemap.xml
-Rss: https://emodelhouse.kro.kr/rss
